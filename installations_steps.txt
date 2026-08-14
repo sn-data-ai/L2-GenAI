@@ -1,0 +1,37 @@
+-----------------------------------------
+STEP-1
+
+1. Python - 3.10 / 3.11 / 3.12 / 3.13 
+2. Ollama 
+3. VSCode
+
+----------------------------------------
+Step-2
+
+Download and Installed Ollama framework on Windows / OS 
+
+Download and Install LLM/SLMs in Ollama framework
+
+1. ollama list (no llms listed)
+
+2. ollama pull llama3.2
+   (Download and Install)
+3. ollama run llama3.2
+
+
+---------------------------------------
+
+Step-3 
+
+1. Install ollama package in Python
+	 pip install ollama
+
+2. Open / Launch VSCode IDE
+
+3. Extensions in VSCode (Install Python extension from Microsoft)
+
+4. Start with creating a new python file 
+
+5. import ollama (in each of the python program - interacting with LLMs)
+
+-------------------------------------------------------------------
